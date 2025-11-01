@@ -1,0 +1,18 @@
+{
+    "name": "com.herghys.gameobjectscriptassigner",
+    "displayName": "GameObject Script Assigner",
+    "version": "1.0.0",
+    "unity": "2021.3",
+    "description": "A simple tool to batch add multiple scripts into multiple GameObjects in Unity Editor by using available action and data",
+    "author": {
+        "name": "Herghys",
+        "email": "helmi.santosa1@gmail.com",
+        "url": "https://github.com/herghys"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/herghys/Unity-GameObject-Script-Assigner.git"
+    },
+    "license": "MIT",
+    "category": "Tools"
+}
